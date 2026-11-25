@@ -156,7 +156,7 @@ eniac_discount_strategy/
 │   └── eniac_exploratory_analysis_log.pdf
 ├── images/                   # charts (01–07)
 ├── script/
-│   └── eniac_discount_strategy.ipynb
+│   └── Eniac_Discount_Strategy_Assessment.ipynb
 └── README.md
 ```
 
@@ -167,7 +167,7 @@ eniac_discount_strategy/
 2. **Detailed walkthrough:** read the [exploratory analysis log](documents/eniac_exploratory_analysis_log.pdf).
 3. **Reproduce the analysis:** unzip any `.zip` files in `data/` first, then open `script/eniac_discount_strategy.ipynb` in Jupyter Notebook or Google Colab and run the cells in order.
 
-> **Note:** Some data files are stored as `.zip` because they exceed GitHub's 25 MB upload limit.
+> **Note:** Copies of the raw and cleaned data are also stored in `data/`. Some are zipped because they exceed GitHub's 25 MB upload limit; unzip them before use if you want to work with the files locally.
 
 ---
 
