@@ -51,7 +51,7 @@ Group project completed as part of the **Data Analytics & AI program at WBS Codi
 ## 🧭 Project Overview
 
 ### Business Context
-Eniac is an online retailer selling Apple products and compatible accessories, from flagship devices to storage, cables, cases and networking equipment. Discounts are used across almost the entire catalogue, which makes it hard to tell whether a sale is driven by a promotion, a standing markdown or simply the time of year.
+Eniac is an online electronics retailer selling Apple products alongside devices and accessories from a range of other brands, covering everything from flagship devices to storage, cables, cases and networking equipment. Discounts are used across almost the entire catalogue, which makes it hard to tell whether a sale is driven by a promotion, a standing markdown or simply the time of year.
 
 ### Business Question
 > Do deep or frequent discounts actually drive higher revenue for Eniac, and what would a more disciplined discount strategy look like?
